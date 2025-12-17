@@ -297,3 +297,4 @@ def index(data: dict):
     else:
         return f"همه موارد معتبر هستند"
 
+
